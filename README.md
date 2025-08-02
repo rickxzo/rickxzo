@@ -20,4 +20,11 @@ My Experience ~<br>
 - LLM Data Curator @ Shipd [8/24 - 12/24]
 - Web Developer @ Zarvayaa [4/25 - 5/25]
 - BuildCore Engineer @ Headstarter [7/25 - 8/25]
+
+Notable Certifications ~<br>
+- Software Engineer by Hackerrank
+- AI Developer Degree by LearnWeb3
+- AI Agents by HuggingFace
+- Freshman Ethereum Developer by LearnWeb3
+
   
