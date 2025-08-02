@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Gourav, known online as @rickxzo
-- 👀 I’m interested in Data Science, Analysis, Predictions and stuff { winning debates with numbers is a diff gravy }
-- 🌱 I’m currently learning Machine Learning, Statistics and also pandas
-- 💞️ I’m looking to collaborate on various projects, wishing to participate in many hackathons asap
-- 📫 How to reach me: message me on insta / linkedin ( mentioned in bio )
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont know man i just got here
+# Hi! I'm Gourav Jana.
 
-<!---
-rickxzo/rickxzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Also known as rickxzo online, I am a 19 year old guy studying IT.<br>
+I like developing AI Agents, and am also capable of <br>
+- Frontend Dev in VueJS<br>
+- Backend Dev in Flask<br>
+- ML Dev using Scikit-Learn<br>
+- BlockChain Dev using Solidity (ETH) & Move (SUI)<br>
+  
+My Education ~<br>
+- Indian Institute of Technology Madras > B.S. in Data Science & Applications {2nd Year}
+- Techno Main Saltlake > B.Tech in Information Technology {3rd Year}
+  
